@@ -67,7 +67,6 @@ class HallOfFameScreen extends Component {
                 }
             });
         }catch(e){
-            console.log('e', e)
             alert("please make sure you're connected to internet")
         }
     }
